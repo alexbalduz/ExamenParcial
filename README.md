@@ -1,5 +1,5 @@
 # ExamenParcial
-<!-- ENUNCIADO ACTIVIDAD 1
+ENUNCIADO ACTIVIDAD 1
 
 
 Nombre del caso o enunciado de la actividad de entrega 1:

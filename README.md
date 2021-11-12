@@ -1,25 +1,16 @@
-Introducción al ejercicio(SOLAMENTE EN EL README):
+#Introducción al ejercicio:
 
-
-
-Análisis de datos de navegación y conversión de usuarios.
-
-
+##Análisis de datos de navegación y conversión de usuarios.
 
 Los usuarios cuando quieren contratar un producto lo buscan en internet, y llegan en la mayoría de los casos a unas páginas web especializadas en conversión llamadas landings. Estas landings suelen contener un teléfono al cual el usuario puede llamar al call center de la compañía y/o también un formulario en el cual dejan su nombre y su teléfono para que dicho call center se ponga en contacto con ellos.
 
 Existen diferentes tipos de conversiones siendo los más comunes:
 
-
-
 •	simplemente el contacto con el call center ya sea a través de una llamada o del envío del formulario.
 
 •	Contratación del producto 
 
-11:59
 OBJETIVO DEL EJERCICIO (README Y ES NUESTRO PROJECT(de momentos))
-
-
 
 El cliente es una compañía de coches y nos pide que le realicemos informes sobre las visitas a las landings de sus productos y las conversiones.
 

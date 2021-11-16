@@ -8,7 +8,7 @@ Existen diferentes tipos de conversiones siendo los más comunes:
 
 •	simplemente el contacto con el call center ya sea a través de una llamada o del envío del formulario.
 
-•	Contratación del producto 
+•	Contratación del producto. 
 
 OBJETIVO DEL EJERCICIO (README Y ES NUESTRO PROJECT(de momentos))
 

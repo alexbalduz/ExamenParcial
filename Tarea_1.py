@@ -10,6 +10,5 @@ def leer_csv (archivo):
     return df
 
 nav = leer_csv('navegacion.csv')
-conv = leer_csv('conversion.csv')
+conv = leer_csv('conversiones.csv')
 
-#ISSUE 2
